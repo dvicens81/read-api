@@ -22,3 +22,5 @@ Create jar:
 To test it.
 
   * http://url:8586/api/read/artist/<id_artist>?type=album&limit=50&offset=1
+  
+By default limit is 50 and offset is 1.
