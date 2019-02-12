@@ -21,4 +21,4 @@ Create jar:
 
 To test it.
 
-  * http://path:8586/api/read/artist/<id_artist>?type=album&limit=50&offset=1
+  * http://url:8586/api/read/artist/<id_artist>?type=album&limit=50&offset=1
