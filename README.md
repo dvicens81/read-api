@@ -19,8 +19,9 @@ Create jar:
    * <root_project_path>/target: java -jar <name_jar_file>
    
 
-To test it.
+To test it. (one request by second)
 
   * http://url:8586/api/read/artist/<id_artist>?type=album&limit=50&offset=1
   
-By default limit is 50 and offset is 1.
+By default limit is 50 and offset is 1. 
+
